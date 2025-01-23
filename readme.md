@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">Bigfoot Sightings Data Analysis</h1>
-<h2 style="text-align: center;">Module 2 Project</h2> 
 
 ### <h2>Overview</h2>
 This project loads, cleans, and visualizes data related to the location and seasonal distribution of Bigfoot sightings as reported to the Bigfoot Field Researchers Organization.
@@ -16,7 +15,7 @@ This project was created using a virtual environment.
 ### <h2>Clone the repository</h2>
 To run this project, first you'll need to clone the repository to your local machine.
 ```bash
-git clone https://github.com/jubilbee/m2_project.git
+git clone https://github.com/jubilbee/Bigfoot_Sightings_EDA.git
 ```
 Navigate into the project repository:
 ```bash
