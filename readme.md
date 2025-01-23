@@ -19,7 +19,7 @@ git clone https://github.com/jubilbee/Bigfoot_Sightings_EDA.git
 ```
 Navigate into the project repository:
 ```bash
-cd m2_project
+cd Bigfoot_Sightings_EDA
 ```
 ### <h2>Create the virtual environment</h2>
 
