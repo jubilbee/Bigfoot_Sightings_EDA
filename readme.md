@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Bigfoot Sightings Data Analysis</h1>
+<h1 align="center"><b>Bigfoot Sightings Data Analysis</b></h1>
 
 ### <h2>Overview</h2>
 This project loads, cleans, and visualizes data related to the location and seasonal distribution of Bigfoot sightings as reported to the Bigfoot Field Researchers Organization.
